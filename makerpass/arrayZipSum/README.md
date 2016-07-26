@@ -5,36 +5,36 @@ Examples
 
 Input	 
 xs:
-[ 10, 20, 30 ]
+[ 10, 20, 30 ]  
 ys:
-[ 1, 2, 3 ]        
+[ 1, 2, 3 ]          
 
-Output
-[ 11, 22, 33 ]
+Output  
+[ 11, 22, 33 ]  
 
-Input
+Input  
 xs:
-[ 100, 1 ]
+[ 100, 1 ]  
 ys:
-[ 50, 5 ]
+[ 50, 5 ]  
 
-Output
-[ 150, 6 ]
+Output  
+[ 150, 6 ]  
 
-Input
+Input  
 xs:
-[ 10, 20, 30 ]
+[ 10, 20, 30 ]  
 ys:
-[ 1, 2 ]
+[ 1, 2 ]  
 
-Output
-[ 11, 22 ]
+Output  
+[ 11, 22 ]  
 
-Input
+Input  
 xs:
-[ 10, 20 ]
+[ 10, 20 ]  
 ys:
-[ 1, 2, 3 ]
+[ 1, 2, 3 ]  
 
-Output
-[ 11, 22 ]
+Output  
+[ 11, 22 ]  
